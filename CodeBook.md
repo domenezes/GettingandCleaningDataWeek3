@@ -1,13 +1,5 @@
 ==================================================================
-Human Activity Recognition Using Smartphones Dataset
-==================================================================
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws
-www.smartlab.ws
-==================================================================
+Human Activity Recognition Using Samsung Galaxy S Dataset
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
@@ -44,7 +36,6 @@ The following files are available for the train and test data. Their description
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample in the train data 
 
 - 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample in the train data 
-
 
 Analysis Steps: 
 ===============
