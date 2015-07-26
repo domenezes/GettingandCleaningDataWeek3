@@ -40,15 +40,25 @@ The following files are available for the train and test data. Their description
 Analysis Steps: 
 ===============
 1) Set up the working directory
+
 2) Download the zip file dataset from the correspondent website and open the zip to generate the train and test directories with their files
+
 3) Read all train and texts .txt files into data frames using 'read.table' function
+
 4) Merge train and test data sets on the top of each other using 'rbind'
+
 5) Convert features.txt into a data frame and properly name its columns
+
 6) Search for matches to argument mean or standard deviation (sd)  within each element of character vector
+
 7) Replaces all matches of a string features
+
 8) Convert activity_labels.txt into a data frame and properly name its columns and appropriately labels the data set with the acitivity names
+
 9) Use 'aggregate' function to create a tidy data set with the average of each variable for each activity and each subject
+
 10) Use 'write.table' function to generate a .txt file that contains the average information from the previous step
+
 
 
 
